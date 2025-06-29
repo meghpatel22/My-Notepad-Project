@@ -8,7 +8,7 @@ A lightweight and beginner-friendly Notepad application developed using Python's
 - 📂 Open existing `.txt` files  
 - 💾 Save files with ease  
 - ✏️ Edit and write text freely  
-- 🖼️ Custom window icon and title
+- 🖼️ Custom color of text and background
 
 ## 🛠️ Tech Stack
 
