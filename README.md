@@ -1,13 +1,26 @@
-# My-Notepad-Project
-A lightweight and minimal Notepad application built using Python's Tkinter GUI toolkit. This project mimics the basic functionalities of a standard notepad—like creating, opening, editing, and saving text files. 
+# 📝 Notepad - A Simple Text Editor using Python Tkinter
 
-🚀 Features
-- Create new text files
-- Open existing .txt files
-- Save and edit text files
-- Simple and clean user interface
-- Window icon and title customization
+A lightweight and beginner-friendly Notepad application developed using Python's Tkinter GUI library. It provides basic text editing features similar to the Windows Notepad.
 
-🛠️ Tech Stack
-- Python 3
-- Tkinter (built-in GUI library)
+## 🚀 Features
+
+- 🆕 Create new text files  
+- 📂 Open existing `.txt` files  
+- 💾 Save files with ease  
+- ✏️ Edit and write text freely  
+- 🖼️ Custom window icon and title
+
+## 🖼️ Preview
+
+> *(You can add a screenshot of the app here if you like)*
+
+## 🛠️ Tech Stack
+
+- **Language**: Python 3  
+- **GUI Library**: Tkinter (built-in)
+
+## 📂 How to Run
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/notepad-tkinter.git
