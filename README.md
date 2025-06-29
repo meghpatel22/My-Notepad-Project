@@ -10,17 +10,10 @@ A lightweight and beginner-friendly Notepad application developed using Python's
 - ✏️ Edit and write text freely  
 - 🖼️ Custom window icon and title
 
-## 🖼️ Preview
-
-> *(You can add a screenshot of the app here if you like)*
-
 ## 🛠️ Tech Stack
 
 - **Language**: Python 3  
 - **GUI Library**: Tkinter (built-in)
 
-## 📂 How to Run
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/notepad-tkinter.git
+
