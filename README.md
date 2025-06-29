@@ -18,3 +18,19 @@ A lightweight and beginner-friendly Notepad application developed using Python's
 ## 🛠️ Can also Download My Notepad application
 
 - You can simply run the pre-built application by downloading "notepad.exe" file.
+
+### Option 1: Run from Source Code
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/notepad-tkinter.git
+
+2. **Navigate into the project folder
+   ```bash
+   cd notepad-tkinter
+
+3. **Run the app
+   ```bash
+   python notepad.py
+
+   
