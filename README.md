@@ -15,5 +15,6 @@ A lightweight and beginner-friendly Notepad application developed using Python's
 - **Language**: Python 3  
 - **GUI Library**: Tkinter (built-in)
 
+## 🛠️ Can also Download My Notepad application
 
-
+- You can simply run the pre-built application by downloading "notepad.exe" file.
