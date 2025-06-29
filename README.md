@@ -19,7 +19,7 @@ A lightweight and beginner-friendly Notepad application developed using Python's
 
 - You can simply run the pre-built application by downloading "notepad.exe" file.
 
-### Option 1: Run from Source Code
+### Run from Source Code
 
 1. **Clone the repository**
    ```bash
